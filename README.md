@@ -97,7 +97,19 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## � Documentation
+
+Comprehensive guides are available in the [`docs/`](docs/) folder:
+
+- **[Configuration Checklist](docs/CONFIGURATION_CHECKLIST.md)** - Complete setup status and requirements
+- **[Quick Start Guide](docs/QUICK_START.md)** - 35-minute final setup before development
+- **[Architecture Guide](docs/ARCHITECTURE.md)** - Clean Architecture principles and structure
+- **[Project Structure](docs/PROJECT_STRUCTURE.md)** - Directory organization reference
+- **[Getting Started](docs/GETTING_STARTED.md)** - Development setup and workflow
+- **[Fonts Documentation](docs/FONTS.md)** - Font usage and configuration
+- **[App Icons Guide](docs/APP_ICONS.md)** - Icon setup and specifications
+
+## �📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
