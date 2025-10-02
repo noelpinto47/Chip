@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@chipapp.com or join our Slack channel.
+For support, email getchip.hq@gmail.com or join our Slack channel.
 
 ---
 
